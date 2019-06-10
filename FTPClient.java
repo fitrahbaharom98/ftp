@@ -31,7 +31,7 @@ public class FTPClient {
 	}
 	
 	public static void main(String[] args) {
-		FTPClient fc = new FTPClient("localhost", 1988, "flower.jpg");
+		FTPClient fc = new FTPClient("localhost", 2013, "flower.jpg");
 	}
 
 }
